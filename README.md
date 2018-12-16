@@ -1,4 +1,4 @@
-# oh-my-qr-scanner
+# OhMyQRScanner 💪
 > Simple material design QR reader, working on phones
 > - Android Chrome 🤖
 > - iOS Safari 🍏
